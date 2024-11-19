@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*.venv
+parser/test.py
+parser/html_tags.txt
+.env
+*.idea
+*.pyc
+__pycache__/
+
